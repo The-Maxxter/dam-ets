@@ -99,7 +99,7 @@ Diseña **por tu cuenta** un algoritmo que reciba un entero como texto, valide l
 
 ### Qué debes construir
 
-En este `README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio-2.drawio.png`. Inserta después esta imagen en el README usando Markdown:
+En este `../../../README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio-2.drawio.png`. Inserta después esta imagen en el README usando Markdown:
 
 ```markdown
 ![Diagrama del ejercicio 2](diagramas/ejercicio-2.drawio.png)
@@ -133,7 +133,7 @@ Diseña **por tu cuenta** un algoritmo que lea un código de **exactamente seis 
 
 ### Qué debes construir
 
-En este `README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas, variables del bucle y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio-3.drawio.png`. Inserta después esta imagen en el README usando Markdown:
+En este `../../../README.md`, **debajo de este apartado**, escribe tu propia **definición del algoritmo**, identificando entrada, procesos, decisiones, salidas, variables del bucle y tratamiento de errores. Construye el diagrama en diagrams.io y guárdalo como `diagramas/ejercicio-3.drawio.png`. Inserta después esta imagen en el README usando Markdown:
 
 ```markdown
 ![Diagrama del ejercicio 3](diagramas/ejercicio-3.drawio.png)
@@ -156,9 +156,9 @@ tarea-1/
     └── ejercicio-3.drawio.png
 ```
 
-**Solo habrá un archivo Markdown:** `README.md`. En él deben aparecer los **tres enunciados**, la definición de los tres algoritmos, las imágenes de los tres diagramas y las pruebas manuales. No se admitirán archivos `ejercicio-1.md`, `ejercicio-2.md` o `ejercicio-3.md` independientes. La carpeta `diagramas/` contendrá los **tres archivos `.drawio.png` editables**.
+**Solo habrá un archivo Markdown:** `../../../README.md`. En él deben aparecer los **tres enunciados**, la definición de los tres algoritmos, las imágenes de los tres diagramas y las pruebas manuales. No se admitirán archivos `ejercicio-1.md`, `ejercicio-2.md` o `ejercicio-3.md` independientes. La carpeta `diagramas/` contendrá los **tres archivos `.drawio.png` editables**.
 
-Al comenzar recibirás el `README.md` y el ejemplo del primer diagrama. Tendrás que reconstruir el primero y crear los otros dos, completar las definiciones y las pruebas en el propio README, y publicar los cambios en GitHub.
+Al comenzar recibirás el `../../../README.md` y el ejemplo del primer diagrama. Tendrás que reconstruir el primero y crear los otros dos, completar las definiciones y las pruebas en el propio README, y publicar los cambios en GitHub.
 
 ## 8. Publicación y entrega
 
@@ -190,4 +190,4 @@ No se entrega un PDF ni un ZIP en el aula virtual.
 | **3. Analizador de códigos** | Definición del algoritmo (1), bucle y tratamiento de errores (1), diagrama correcto (1,5), pruebas y archivo editable (0,5) | **4,0** |
 | **Total** | | **10,0** |
 
-> Se comprobará la correspondencia entre la definición escrita en `README.md`, la lógica representada y el archivo `.drawio.png` editable. La publicación en el repositorio indicado forma parte de la entrega obligatoria.
+> Se comprobará la correspondencia entre la definición escrita en `../../../README.md`, la lógica representada y el archivo `.drawio.png` editable. La publicación en el repositorio indicado forma parte de la entrega obligatoria.

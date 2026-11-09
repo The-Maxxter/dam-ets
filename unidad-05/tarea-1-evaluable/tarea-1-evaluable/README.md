@@ -6,7 +6,7 @@
 **Repositorio público:** `tarea-1`  
 **Autor/a:** Mauro Edi Goller Pérez
 
-> **Modelo orientativo de entrega del alumnado.** Esta es una solución completa de referencia. Los diagramas se han guardado en `diagramas/` con formato `.drawio.png` para visualizarlos en GitHub y reabrirlos en diagrams.io.
+> **Modelo orientativo de entrega del alumnado.** Esta es una solución completa de referencia. Los diagramas se han guardado en `diagramas` con formato `.drawio.png` para visualizarlos en GitHub y reabrirlos en diagrams.io.
 
 ## Cómo se construye cada diagrama
 
